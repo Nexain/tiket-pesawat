@@ -1,5 +1,5 @@
 click==7.1.2
-Babel==2.7.0
+Babel==2.9.1
 Flask==1.1.2
 Flask-Babel==0.12.2
 Flask-MySQL==1.5.1
